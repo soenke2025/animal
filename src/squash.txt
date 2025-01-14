@@ -1,0 +1,10 @@
+git advanced commands
+================================
+
+KAPITEL 28
+squash
+------------------------------
+
+ - commit #1 during squash activity
+  - commit #2 during squash activity
+   - commit #4 during squash activity
