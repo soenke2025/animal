@@ -21,3 +21,5 @@ squash
     - commit #11 during squash activity
     - commit #12 during squash activity
 
+    => EXTRA commit AFTER squash and merge #3 !
+    - commit #13 during squash activity
