@@ -4,7 +4,14 @@ git advanced commands
 KAPITEL 28
 squash
 ------------------------------
-
+250114:
  - commit #1 during squash activity
   - commit #2 during squash activity
    - commit #4 during squash activity
+
+250115:
+    - commit #5 during squash activity
+    - commit #6 during squash activity
+    - commit #7 during squash activity
+    - commit #8 during squash activity
+
