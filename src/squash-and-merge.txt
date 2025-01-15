@@ -1,0 +1,11 @@
+git advanced commands
+================================
+
+KAPITEL 28
+squash and merge in GitHub
+------------------------------
+ - commit #1 during squash activity
+  - commit #2 during squash activity
+   - commit #3 during squash activity
+
+
